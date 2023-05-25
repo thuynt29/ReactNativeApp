@@ -1,0 +1,15 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userName": "thanhthuy",
+            "password": "12345",
+            "firtName": "Thanh",
+            "lastName": "Nguyen",
+            "email": "thuyntph22624@fpt.edu.vn",
+            "gender": "Male",
+            "createDate": "17/09/2023",
+            "updateDate": "17/09/2023"
+        }
+    ]
+}
